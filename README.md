@@ -6,7 +6,9 @@ cd Ruddit
 ## 2. Скачайте npm в папку с кодом.
 npm install
 ## 3. Запустите dev сервер.
-npm run dev             # http://localhost:5173
+npm run dev
+## 4. Зайдите на запущенный сайт по ссылке:
+http://localhost:5173
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95aa2c29-a5c2-4911-a9f1-86b56ce145ad" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b75fc574-4f31-4465-8e7a-91e682675743" />
