@@ -1,10 +1,10 @@
-Инструкция по запуску:
-# 1. Клонируйте код и зайдите в папку с кодом.
+# Инструкция по запуску:
+## 1. Клонируйте код и зайдите в папку с кодом.
 git clone https://github.com/ALEXKLY910/Ruddit.git
 cd Ruddit
-2. Скачайте npm в папку с кодом.
+## 2. Скачайте npm в папку с кодом.
 npm install
-3. Запустите dev сервер.
+## 3. Запустите dev сервер.
 npm run dev             # http://localhost:5173
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95aa2c29-a5c2-4911-a9f1-86b56ce145ad" />
