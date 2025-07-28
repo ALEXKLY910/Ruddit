@@ -1,6 +1,7 @@
 # Инструкция по запуску:
 ## 1. Клонируйте код и зайдите в папку с кодом.
 git clone https://github.com/ALEXKLY910/Ruddit.git
+
 cd Ruddit
 ## 2. Скачайте npm в папку с кодом.
 npm install
