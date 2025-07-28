@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7b7037a-5cd3-4778-8b60-5475ed24a74e" />~~~ Инструкция по запуску:
+Инструкция по запуску:
 # 1. Клонируйте код и зайдите в папку с кодом.
 git clone https://github.com/ALEXKLY910/Ruddit.git
 cd Ruddit
