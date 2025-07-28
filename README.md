@@ -3,7 +3,7 @@
 git clone https://github.com/ALEXKLY910/Ruddit.git
 
 cd Ruddit
-## 2. Скачайте npm в папку с кодом.
+## 2. Скачайте npm-зависимости в папку с кодом.
 npm install
 ## 3. Запустите dev сервер.
 npm run dev
